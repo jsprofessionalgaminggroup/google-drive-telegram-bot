@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = "https://t.me/yt_DarkHackerX_chat"
+    BOT_TOKEN = "1748762879:AAEUhdzxlbvXLzvhStcYhTCtibFdC3MtrgE"
+    APP_ID = "3718241"
+    API_HASH = "6f4ec719f4f63c9c85159a6976bea0f8"
+    DATABASE_URL = "postgres://dmbycukruksxzk:133eaddfa2c367d610566254de9f6bddf401faa934d2c7e7f4105a8183581f99@ec2-54-235-108-217.compute-1.amazonaws.com:5432/d1boba6qh3b7q8"
+    SUDO_USERS = "1275218476 1114017121" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/moviesanimationtamil"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
